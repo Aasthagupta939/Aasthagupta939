@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aastha Gupta</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-- 🌱 I’m currently learning **React Native, Flutter, Kotlin**
-- ⚡ Fun fact **I love to play Badminton and Football.**
+- 🌱 I’m currently learning **React Native**
+- ⚡ Fun fact **I like to play Badminton.**
 
 👔[linekdin](https://www.linkedin.com/in/aasthagupta939/) | 📧 [mail](mailto:aasthagupta939@gmail.com) | ![](https://komarev.com/ghpvc/?username=Aasthagupta939&color=blue)
 
